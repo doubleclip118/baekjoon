@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "ostream": "cpp",
+        "백준2798번": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp"
+    }
+}
